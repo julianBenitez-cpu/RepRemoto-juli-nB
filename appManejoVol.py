@@ -19,6 +19,7 @@ while True:
     else:
         print('Ingresa bien la wea (algo ta mal)')
         print('Acá hay un cambio')
+        print ('Acá otro cambio')
 
     
 
